@@ -40,6 +40,20 @@ Traditional hiring takes weeks, requires manual effort, and is costly. HireAR en
 - ₹1,500/role with full AI access — no premium lock-in
 - Works on mobile; zero learning curve
 
+- Our AI does not rely on keyword matching.
+
+It evaluates:
+- Context understanding of answers
+- Behavioral patterns (confidence, hesitation)
+- Logical consistency across responses
+
+This simulates how a human interviewer judges candidates.
+
+Unlike traditional tools, HireAR is not a question bank or video recorder.
+
+It is a decision-support system trained to replicate recruiter judgment,
+making it harder to replace with simple automation tools.
+
 🔗 Live Demo
 👉 [Working MVP Link](https://hirear.base44.app)
 📎 Project Type
